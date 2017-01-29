@@ -4,6 +4,7 @@
    font-color: #283136;
    font-weight: "normal";
    font-family: "Roboto";
+
 }
 
 h1 {
@@ -20,4 +21,88 @@ h2 {
   font-color: #000000;
   font-weight: bold;
   font-family: "Roboto";
+}
+
+.logo {
+  margin-left: 140px;
+  margin-top: 49px;
+  float: left;
+}
+
+.top-nav-list.main-right li {
+  display: inline-block;
+  float: left;
+  text-decoration: none;
+  margin-right: 47px;
+  margin-top: 83px;
+  list-style: none
+}
+
+
+.clearfix {
+    height: 0px;
+    clear: both;
+}
+
+.slider-text {
+  float: left;
+  margin-left: 140px;
+}
+
+
+.catalog-list li{
+  display: inline-block;
+  width: 300px;
+  margin-left: 140px;
+  margin-top: 80px;
+  margin-right: 100px;
+  margin-bottom: 80px;
+  text-decoration: none;
+  float: left;
+  list-style: noneas
+}
+
+.text clear {
+  margin-top: 80px;
+}
+
+.main-left {
+  float: left;
+  margin-left: 140px;
+}
+
+.main-right {
+  display: inline-block;
+  float: right;
+  margin-right: 140px;
+}
+
+.partners a {
+  margin-left: 140px;
+  margin-right: 103px;
+}
+.partners {
+  margin-top: 80px;
+}
+
+.map {
+  height: 416px;
+  background-image: url("img/map.jpg");
+}
+
+.map-text {
+  margin-top: 182px;
+  margin-left: 140px;
+  background-image: url("img/map.jpg");
+}
+
+.footer {
+  margin-top: 80px;
+  margin-left: 140px;
+}
+.social {
+  display: inline-block;
+  float: left;
+  margin-left: 72px;
+
 }
